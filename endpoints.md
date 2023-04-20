@@ -55,7 +55,7 @@
 *!!! need to verify with designers*
 
 
-# Test cases:
+# HTTP verbs test pattern:
 ### POST 
 - 400 if data is missing or invalid
 - 404 if it has one or more fk's in payload or id in query parameter but not found in database
